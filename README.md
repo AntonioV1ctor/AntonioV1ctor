@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Python3" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="right" alt="Antonio" height="100" width="120" src="https://i.pinimg.com/originals/0a/26/d4/0a26d475158327fa2e8a5dac3f053e69.gif">
+    <img align="right" alt="Antonio" height="100" width="120" src="download.gif">
     
 </div>
 Um entusiasta de Python, sempre buscando por novas aprendizagens para criar soluções inovadoras e eficientes.
