@@ -48,7 +48,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AntonioV1ctor/AntonioV1ctor/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AntonioV1ctor/AntonioV1ctor/blob/output/snake.svg)
+
 
 ###
 
