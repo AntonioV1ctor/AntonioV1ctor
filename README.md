@@ -1,29 +1,68 @@
-### Olá👋! Eu sou o Antônio Victor
-- 👨‍🎓🖥Futuro Dev 
-- 16 Anos
-- 📘Cursando desenvolvimento de sistemas no Senac Hub Academy
+<h1 align="left">Olá 👋 Como vai?</h1>
 
+###
 
-![Antônio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioV1ctor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioV1ctor&layout=compact)
+<p align="left">👨‍🎓🖥Futuro Dev <br>17 Anos<br>📘Cursando desenvolvimento de sistemas no Senac Hub Academy</p>
 
-<picture>
-  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/LucasDiasPereira/LucasDiasPereira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDiasPereira/LucasDiasPereira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasDiasPereira/LucasDiasPereira/output/github-contribution-grid-snake.svg">
-</picture>
+###
 
-## Tecnologias que estou aprendendo 💻
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="Python3" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="right" alt="Antonio" height="100" width="120" src="download.gif">
-    
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs e solucionando desafios desde 2023!<br>📚 Atualmente aprendendo: Desenvolvimento de sistemas e boas práticas para mantê-los estáveis e funcionais.<br>🎯 Objetivos de longo prazo: Tornar-me um desenvolvedor Full Stack e mergulhar no mundo da CyberSecurity.</p>
+
+###
+
+<h2 align="left">Eu programo com:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-Um entusiasta de Python, sempre buscando por novas aprendizagens para criar soluções inovadoras e eficientes.
 
-### Meios de Contato🔎
+###
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anntoniovic/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+<h2 align="left">Outros:</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AntonioV1ctor/AntonioV1ctor/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioV1ctor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioV1ctor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/antoniov1ctor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
