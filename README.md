@@ -55,4 +55,4 @@ Jovem desenvolvedor de 16 anos com paixão por tecnologia e inovação. Acredito
 
 
 ## 📚 Formação
-- **Curso Técnico** - Curso Técnico de Desenvolvimento de Sistemas. (Seanac Hub Academy-MS)
+- **Curso Técnico** - Curso Técnico de Desenvolvimento de Sistemas.
