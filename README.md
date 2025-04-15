@@ -29,8 +29,8 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AntonioV1ctor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioV1ctor&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=AntonioV1ctor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" width="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioV1ctor&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" width="190" />
 </p>
 
 ## Sobre mim
