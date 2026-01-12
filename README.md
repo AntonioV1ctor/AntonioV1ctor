@@ -25,13 +25,10 @@
 <a href="https://www.instagram.com/anntoniovic" target="_blank">
 <img width="163" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<div> <img src="JojoClash.gif" width="340" align="right" alt="Jotaro" top="10px"/> </div>
+<div>  </div>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AntonioV1ctor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" width="250" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioV1ctor&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" width="190" />
-</p>
+
 
 ## Sobre mim
 Jovem desenvolvedor de 16 anos com paixão por tecnologia e inovação. Acredito que a tecnologia é a chave para um mundo melhor e estou comprometido em aprimorar constantemente minhas habilidades técnicas para contribuir com esse avanço. Estudante dedicado e entusiasta de desenvolvimento de software, busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos.
